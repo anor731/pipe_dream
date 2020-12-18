@@ -1,4 +1,4 @@
-'''js asyncChannel```
+'''js asyncChannel.js'''
 
 Two what appears to be consecutive console logs, produce totally different output... I think the at least one random number should be there twice, and there's no such thing...
 
